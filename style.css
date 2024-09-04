@@ -1,0 +1,51 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+}
+
+p {
+    color: green;
+}
+
+ul li {
+    list-style: none;
+}
+
+ol li {
+    color: red;
+}
+
+a {
+    color: purple;
+    text-decoration: none;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
+
+div {
+    background-color: yellow;
+    padding: 20px;
+}
+
+span {
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
